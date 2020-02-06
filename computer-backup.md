@@ -16,11 +16,12 @@ you could even use the 'just testing it out' feature if you are really short ter
 * AdBlock Plus  
 * Permanent Private browsing  (No History or cookies, no saved logins for important accounts)
 
-5. Firewall  
-* UFW  
+5. Firewall  ([general security reference](https://wiki.ubuntu.com/BasicSecurity))
+* [UFW](https://wiki.ubuntu.com/BasicSecurity/Firewall)
 
-6. AppArmor
+6. [AppArmor](https://ubuntuforums.org/showthread.php?t=1008906)
 * Mostly just for chromium and firefox, don't go too extreme or the computer will crash
+* also look up the man pages
 
 7. Rootkits
 * Rootkit Hunter
@@ -32,14 +33,14 @@ you could even use the 'just testing it out' feature if you are really short ter
 * TLD
 * Powertop
 
-10. Secure your files against unauthorized eyes
+10. [File permissions](https://help.ubuntu.com/community/FilePermissions)
 * chmod 700 $HOME   
 * umask 077 (realistically the same as above)
 
 11. No blank screen on suspend
 
 12. The additional apps
-* [Github](https://www.theodinproject.com/courses/web-development-101/lessons/setting-up-git)
+* [Github](https://www.theodinproject.com/courses/web-development-101/lessons/setting-up-git) (use to backup files)
 * [Visual studio code](https://code.visualstudio.com)
 * [Ruby](https://www.theodinproject.com/courses/web-development-101/lessons/installing-ruby)
 * Spotify
@@ -48,5 +49,6 @@ you could even use the 'just testing it out' feature if you are really short ter
 * Check security holes with *"Tiger"* app
 * (Ankidroid)
 * Pomodoro timer
+* Bittorrent
 
 
