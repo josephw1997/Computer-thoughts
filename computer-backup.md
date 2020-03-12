@@ -10,6 +10,10 @@ OR esc, F1, F10, F12
 parition with ubuntu installer unless you want to long term dual boot with another operating system  
 you could even use the 'just testing it out' feature if you are really short term.
 
+(4. optional) add another account to download shit and be illegal.
+This way, if you download a virus, you have more time to erase the computer
+(because linux is designed to keep problems to one account)
+
 4. Firefox  
 * NoScript  
 * WOT  
@@ -43,12 +47,16 @@ you could even use the 'just testing it out' feature if you are really short ter
 * [Github](https://www.theodinproject.com/courses/web-development-101/lessons/setting-up-git) (use to backup files)
 * [Visual studio code](https://code.visualstudio.com)
 * [Ruby](https://www.theodinproject.com/courses/web-development-101/lessons/installing-ruby)
+* Node JS and Jasmine
+* Vim
 * Spotify
 
 13. Possible additions
 * Check security holes with *"Tiger"* app
 * (Ankidroid)
 * Pomodoro timer
-* Bittorrent
+* redshift
 
-
+14. Consider making a password scheme that doesn't require a booklet
+* like something that four hand motions, changing sligtly per account, 
+and that can be traced with the account index number
