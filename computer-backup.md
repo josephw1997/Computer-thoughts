@@ -3,7 +3,10 @@ Ubuntu disk image: https://ubuntu.com/download/desktop/thank-you?country=FJ&vers
 Lubuntu downloads: https://lubuntu.me/downloads/
 MX linux is pretty nice,
 try Debian linux,
-then Arch linux (to become an advanced user)
+then Arch linux (to become an advanced user).
+Might be good to have a stable linux on a flashdrive and a tester (like manjaro or arch) to learn more about linux when 
+you're bored.
+Could eventually try slackware after you are proficient with arch
 
 2. Boot  
 Option + Power  
@@ -12,10 +15,8 @@ OR esc, F1, F10, F12
 3. Partitioning  
 parition with ubuntu installer unless you want to long term dual boot with another operating system  
 you could even use the 'just testing it out' feature if you are really short term.
+Make sure to back up your system before doing this because the partitioning tool isn't always perfect.
 
-(4. optional) add another account to download shit and be illegal.
-This way, if you download a virus, you have more time to erase the computer
-(because linux is designed to keep problems to one account)
 
 4. Firefox  
 * NoScript  
@@ -33,10 +34,11 @@ This way, if you download a virus, you have more time to erase the computer
 7. Rootkits
 * Rootkit Hunter
 * Chrootkit
+and virus scanner (clamav)
 
-8. [ProtonVPN](https://github.com/ProtonVPN/protonvpn-cli-ng) - Mostly for watching movies
+8. [ProtonVPN](https://github.com/ProtonVPN/protonvpn-cli-ng) - Mostly for watching movies and public wifi
 
-9. Battery (maybe not needed for lubuntu)
+9. Battery
 * TLD
 * Powertop
 
@@ -63,3 +65,10 @@ This way, if you download a virus, you have more time to erase the computer
 14. Consider making a password scheme that doesn't require a booklet
 * like something that four hand motions, changing sligtly per account, 
 and that can be traced with the account index number
+
+15. System backup
+backup your data and configuration so you can just clean wipe your computer and then get back to normal without
+a problem.
+
+16. When you are more advanced, make separate accounts with specific access rights (like one for illegal shit, 
+one for online banking, and one for everyday use)
