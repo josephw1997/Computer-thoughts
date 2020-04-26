@@ -1,11 +1,7 @@
 1. Computer install  
-Ubuntu disk image: https://ubuntu.com/download/desktop/thank-you?country=FJ&version=18.04.3&architecture=amd64  
-Lubuntu downloads: https://lubuntu.me/downloads/
-MX linux is pretty nice,
-try Debian linux,
-then Arch linux (to become an advanced user).
-Might be good to have a stable linux on a flashdrive and a tester (like manjaro or arch) to learn more about linux when 
-you're bored.
+CMD + R while booting mac will allow for fresh install over network.
+Try Arch linux (to become an advanced user).
+If you need mobile banking at library, use a usb live linux, like puppy linux or the like.
 Could eventually try slackware after you are proficient with arch
 
 2. Boot  
@@ -13,8 +9,7 @@ Option + Power
 OR esc, F1, F10, F12  
 
 3. Partitioning  
-parition with ubuntu installer unless you want to long term dual boot with another operating system  
-you could even use the 'just testing it out' feature if you are really short term.
+Partitioning when the system is not mounted is necessary, like when installing a secondary operating system.
 Make sure to back up your system before doing this because the partitioning tool isn't always perfect.
 
 
@@ -22,6 +17,7 @@ Make sure to back up your system before doing this because the partitioning tool
 * NoScript  
 * WOT  
 * AdBlock Plus  
+* Privacy Badger
 * Permanent Private browsing  (No History or cookies, no saved logins for important accounts)
 
 5. Firewall  ([general security reference](https://wiki.ubuntu.com/BasicSecurity))
@@ -34,9 +30,10 @@ Make sure to back up your system before doing this because the partitioning tool
 7. Rootkits
 * Rootkit Hunter
 * Chrootkit
-and virus scanner (clamav)
+* Avast when working with macos
 
 8. [ProtonVPN](https://github.com/ProtonVPN/protonvpn-cli-ng) - Mostly for watching movies and public wifi
+* Do the paid versions when you are making money, useful bc you can do it on mac and linux
 
 9. Battery
 * TLD
@@ -48,19 +45,19 @@ and virus scanner (clamav)
 
 11. No blank screen on suspend
 
-12. The additional apps
+12. Coding Apps
 * [Github](https://www.theodinproject.com/courses/web-development-101/lessons/setting-up-git) (use to backup files)
-* [Visual studio code](https://code.visualstudio.com)
 * [Ruby](https://www.theodinproject.com/courses/web-development-101/lessons/installing-ruby)
 * Node JS and Jasmine
+* [Visual studio code](https://code.visualstudio.com)
 * Vim
-* Spotify
 
 13. Possible additions
 * Check security holes with *"Tiger"* app
-* (Ankidroid)
 * Pomodoro timer
 * redshift
+* Spotify
+* Bittorrent client
 
 14. Consider making a password scheme that doesn't require a booklet
 * like something that four hand motions, changing sligtly per account, 
